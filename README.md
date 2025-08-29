@@ -17,7 +17,7 @@ This project is the **Capstone (D424) upgrade** of the earlier **D308 Mobile App
 ## 🚀 Key Changes (Capstone vs. earlier D308 version)
 
 - **Repository Migration**
-  - Project moved to: [`d424-software-engineering-capstone`](https://gitlab.com/wgu-gitlab-environment/student-repos/bvinc38/d424-software-engineering-capstone.git)
+  - Project moved to: https://github.com/Branden574/vacation-manager/releases/tag/v1.0.1
   - Work completed on branch: **`app`** (working feature branch also available).
 
 - **Architecture & Threading**
